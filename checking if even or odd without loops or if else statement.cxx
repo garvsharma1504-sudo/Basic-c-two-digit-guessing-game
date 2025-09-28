@@ -1,4 +1,4 @@
-// Checking if number is true or false without using if else staement or for loop:-
+// Checking if number is true or false without using if else statement or for loop:-
 # include <iostream>
 
 int main(){

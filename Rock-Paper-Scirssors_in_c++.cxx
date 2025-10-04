@@ -1,4 +1,5 @@
 // Rock-Paper-Scissors in c++
+//not yet complete
 
 #include <iostream>
 #include <ctime>
